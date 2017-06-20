@@ -1,6 +1,6 @@
 {
     "name": "conda-powerai",
-    "description": "Setup Anaconda at /opt/DL/anaconda and virtual environment keras_tf with keras and Tensorflow with GPU.  Do the following: sudo su;  add /opt/DL/anaconda/bin to your PATH  and activate keras_tf virtualenv by source activate keras_tf"
+    "description": "Setup Anaconda at /opt/DL/anaconda and virtual environment keras_tf with keras and Tensorflow with GPU.  Do the following: sudo su;  add /opt/DL/anaconda/bin to your PATH  and activate keras_tf virtualenv by source activate keras_tf",
     "author": "sridharhr@in.ibm.com",
     "licensed": true,
     "classifications": [
